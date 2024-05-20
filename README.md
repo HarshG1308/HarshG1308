@@ -1,11 +1,11 @@
 # 💫 About Me:
 "Hi 👋, I'm Harsh Gautam, A passionate Machine Learning Enthusiast from India. I am a second-year undergraduate student pursuing Computer Science and Engineering at GLA University, Mathura.<br> With a passion for innovation and a knack for problem-solving, I thrive at the intersection of  technology and impactful solutions. <br>From developing machine learning models to spearheading data science workshops, my journey is defined by a relentless pursuit of excellence in every project I undertake."
 
-- 🔭 I’m currently working on **"Sentiment Analysis by voice using NLP for Alzheimer patients."**
+- 🔭 I’m currently working on **"Voice Activated Elevator System."**
 
 - 🌱 I’m currently learning **Generative AI, DSA, LangChain**
 
-- 👯 I’m looking to collaborate on **projects related to Machine Learning and Generative AI.**
+- 👯 I’m looking to collaborate on **Projects related to Machine Learning and Generative AI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshG1308](https://github.com/HarshG1308)
 
