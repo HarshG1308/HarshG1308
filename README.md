@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm **Harsh Gautam**, a passionate **Machine Learning Enthusiast** and **Software Developer** from India. I am currently in my **pre-final year** pursuing **B.Tech in Computer Science and Engineering** at **GLA University, Mathura**. With a strong foundation in programming, data science, and machine learning, I thrive on solving complex problems and building innovative solutions. My journey is defined by a relentless pursuit of excellence, from developing AI-powered applications to leading tech communities.
 
-- 🔭 I’m currently working on **"Voice Activated Elevator System"** and **"Vishuddh AI Portal"**.
+- 🔭 I’m currently working on **"Cybershield"** and **"Vishuddh AI"**.
 - 🌱 I’m currently learning **Generative AI, DSA, LangChain, and Advanced Machine Learning**.
 - 👯 I’m looking to collaborate on **projects related to Machine Learning, Generative AI, and Software Development**.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HarshG1308).
@@ -58,8 +58,10 @@ Hi 👋, I'm **Harsh Gautam**, a passionate **Machine Learning Enthusiast** and 
 ---
 
 ## 🏆 Achievements:
+- **1st Runner-Up** in MarketWise ML Hackathon at IIIT Nagpur.
 - **1st Runner-Up** in Techno Business Hackathon at Jaipuria Institute of Management, Noida.
 - **Finalist** in SPHINX 24Hr Hackathon at MNIT Jaipur, among 2000 teams.
+- **Finalist** in HackCBS 7.O
 - **Visiting Student** at IIT Gandhinagar, selected based on academic performance.
 - **Gold Badge** on CodeChef (500+ problems) and 300+ questions on LeetCode.
 - Ranked among the **Top 1%** in NPTEL courses on Management Information System and Software Engineering.
@@ -87,12 +89,5 @@ Hi 👋, I'm **Harsh Gautam**, a passionate **Machine Learning Enthusiast** and 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-### 😂 Random Dev Meme:
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=HarshG1308&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
