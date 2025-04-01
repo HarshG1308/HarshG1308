@@ -1,93 +1,117 @@
-# 💫 About Me:
-Hi 👋, I'm **Harsh Gautam**, a passionate **Machine Learning Enthusiast** and **Software Developer** from India. I am currently in my **pre-final year** pursuing **B.Tech in Computer Science and Engineering** at **GLA University, Mathura**. With a strong foundation in programming, data science, and machine learning, I thrive on solving complex problems and building innovative solutions. My journey is defined by a relentless pursuit of excellence, from developing AI-powered applications to leading tech communities.
+# <div align="center">👨‍💻 HARSH GAUTAM</div>
 
-- 🔭 I’m currently working on **"Cybershield"** and **"Vishuddh AI"**.
-- 🌱 I’m currently learning **Generative AI, DSA, LangChain, and Advanced Machine Learning**.
-- 👯 I’m looking to collaborate on **projects related to Machine Learning, Generative AI, and Software Development**.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/HarshG1308).
-- 📫 How to reach me: **hgqeir@gmail.com**.
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OGSU-O72aevERFfvUoPJyigRRPsp7fX6/view?usp=drive_link).
-- ⚡ Fun fact: I actively participate in **basketball, spiritual activities, music, and literature**.
+<div align="center">
+  <b>Pre-Final Year CSE Undergrad | Machine Learning Enthusiast | Software Developer</b><br>
+  <i>GLA University, Mathura</i>
+</div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gautam-b73574252/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshG1308)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/@HarshGautam1308)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.gautam_cs22@gla.ac.in)
+  
+</div>
+
+## 💫 About Me
+
+Hey there! I'm a pre-final year Computer Science student with a passion for building AI-powered solutions and scalable software applications. I've had the privilege of interning at IIT Gandhinagar and working on several exciting projects in machine learning and software development.
+
+- 🔭 Currently working on **"Cybershield"** and **"Vishuddh AI Portal"**
+- 🌱 Learning **Generative AI, Advanced DSA, LangChain, and MLOps**
+- 👯 Open to collaborate on projects involving **Machine Learning and Software Development**
+- 🎓 CGPA: **8.94/10.0** at GLA University
+- 📫 Reach me at: **harsh.gautam_cs22@gla.ac.in**
+- ⚡ Fun fact: I enjoy basketball, spiritual activities, music, and literature!
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+## 🚀 Projects
+
+### Vishuddh AI Portal
+- Developed an AI-powered web application for real-time monitoring of cleanliness metrics
+- Implemented image processing algorithms to analyze camera feeds with 92% accuracy
+- Tech Stack: React.js, Node.js, TensorFlow, OpenCV, Flask
+
+### Multi-modal Elevator Module
+- Architected a voice-controlled elevator interface with speech recognition
+- Integrated eye tracking, voice commands, and touch interaction for accessibility
+- Tech Stack: Python, Vosk, Whisper, Threading, Tkinter
+
+### Cybershield
+- Built a platform for deepfake detection across audio, video, and images
+- Leveraged CNNs and RNNs for media analysis with high detection accuracy
+- Tech Stack: Python, TensorFlow, Flask, React
+
+### Audio Sentiment Analysis
+- Developed a machine learning system for analyzing sentiment in audio recordings
+- Combined CNNs and RNNs (LSTMs) for temporal and local audio feature analysis
+- Tech Stack: Python, TensorFlow, Scikit-learn
+
+## 🏆 Achievements
+
+- 🥈 1st Runner-Up in MarketWise ML Hackathon at IIIT Nagpur
+- 🥈 1st Runner-Up in Techno Business Hackathon at Jaipuria Institute of Management
+- 🏅 1st Prize in Sustainability Category at RECKON 6.0, JIET Jodhpur
+- 🎓 Selected as Visiting Student at IIT Gandhinagar (top 1% performers)
+- 💻 Gold Badge on CodeChef (500+ problems) and 400+ problems on LeetCode
+- 📊 Ranked in Top 1% in NPTEL courses: Management Information System and Software Engineering
+
+## 💼 Leadership
+
+- **President, DATUM Club** (Data Science Club) at GLA University
+  - Organized workshops, coding competitions, and tech talks
+  - Led club operations, budget management, and recruitment efforts
+
+- **Tech Team Member, EII** (Entrepreneurship Initiative)
+  - Developed web features enhancing user engagement
+  - Mentored junior developers in best practices
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HarshG1308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshG1308&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG1308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HarshG1308&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gautam-b73574252/)
-[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HarshGautam1308)
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
----
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 🚀 Projects:
-### **Vishuddh AI Portal** | Python, OpenCV, Flask, React
-- Developed an AI-powered portal to monitor cleanliness and sustainability practices in post offices.
-- Integrated image processing models for detecting deviations from Swachhta Action Plan (SAP) 2024 standards.
-- Designed a user-friendly dashboard for real-time monitoring and data visualization.
-
-### **Multi-modal Elevator Module** | Python, Vosk, Whisper, Tkinter
-- Developed a voice-controlled elevator interface using Vosk and Whisper for speech recognition.
-- Integrated eye tracking and touch interaction for a versatile user experience.
-- Created a GUI for real-time elevator status updates with text-to-speech feedback.
-
-### **Cyber Shield** | Python, TensorFlow, Flask
-- Built a website for deepfake AI detection across audio, video, and images.
-- Leveraged advanced neural networks (CNNs and RNNs) for media analysis.
-- Achieved high accuracy in detecting manipulated media.
-
-### **Audio Sentiment Analysis** | Python, TensorFlow, Scikit-learn
-- Developed a machine learning system for analyzing sentiment in audio recordings.
-- Used CNNs and RNNs (LSTMs) for analyzing temporal and local audio features.
-- Compared the performance of neural network models with traditional classifiers like SVM and Random Forest.
-
-### **Diabetes Prediction using Machine Learning** | Python, Scikit-learn, XGBoost
-- Built a machine learning model to predict diabetes based on diagnostic data.
-- Achieved 90% accuracy with an optimized XGBoost model.
-- Performed extensive data preprocessing and feature correlation analysis.
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshG1308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshG1308&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG1308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 Achievements:
-- **1st Runner-Up** in MarketWise ML Hackathon at IIIT Nagpur.
-- **1st Runner-Up** in Techno Business Hackathon at Jaipuria Institute of Management, Noida.
-- **Finalist** in SPHINX 24Hr Hackathon at MNIT Jaipur, among 2000 teams.
-- **Finalist** in HackCBS 7.O
-- **Visiting Student** at IIT Gandhinagar, selected based on academic performance.
-- **Gold Badge** on CodeChef (500+ problems) and 300+ questions on LeetCode.
-- Ranked among the **Top 1%** in NPTEL courses on Management Information System and Software Engineering.
-
----
-
-## 💼 Positions of Responsibility:
-### **President** | DATUM (Data Science Club)
-- Led and managed all activities, including workshops, coding competitions, and tech talks.
-- Organized events on modern technologies and best practices in software development.
-- Overlooked club operations, budget management, and recruitment efforts.
-
-### **Tech Team Member** | EII (Entrepreneurship Initiative)
-- Led web development features for the EII website, enhancing user engagement and traffic.
-- Mentored junior developers in best practices for web development and version control.
-
----
-
-## 📈 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=HarshG1308&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+</div>
