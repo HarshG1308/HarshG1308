@@ -28,8 +28,8 @@
 
 Hey there! I'm a final year Computer Science student with a passion for building AI-powered solutions and scalable backend systems. I’ve interned as a Research Intern at IIT Gandhinagar, as a Data Science Intern at Intellewings, and I’m currently working as an SDE Intern at Zscaler.
 
-- 🔭 Currently working on **Cybershield**, **Vishuddh AI Portal**, and production backend services at **Zscaler**
-- 🧠 Previously: **Data Science Intern @ Intellewings (WingBalance – fraud risk monitoring system)**
+- 🔭 Currently working SDE Intern at **Zscaler**
+- 🧠 Previously: **Data Science Intern @ Intellewings (Anti money laundering and Fraud Risk Monitoring System)**
 - 🌱 Learning **Generative AI, Advanced DSA, LangChain, MLOps, and scalable backend design**
 - 👯 Open to collaborate on **Machine Learning, Distributed Systems, and Backend Engineering**
 - 🎓 CGPA: **8.94/10.0** at GLA University
@@ -133,9 +133,23 @@ Hey there! I'm a final year Computer Science student with a passion for building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshG1308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.vercel.app/?user=HarshG1308&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG1308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+<!-- Stats card -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=HarshG1308&show_icons=true&theme=tokyonight&hide_border=false" 
+  alt="GitHub Stats" 
+/>
+
+<!-- Streak card (use vercel subdomain, not herokuapp) -->
+<img 
+  src="https://streak-stats.demolab.com?user=HarshG1308&theme=tokyonight&hide_border=false" 
+  alt="GitHub Streak" 
+/>
+
+<!-- Top languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG1308&layout=compact&theme=tokyonight&hide_border=false" 
+  alt="Top Languages" 
+/>
 
 </div>
 
@@ -144,10 +158,13 @@ Hey there! I'm a final year Computer Science student with a passion for building
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarshG1308&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
----
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=HarshG1308&theme=onedark&no-frame=false&no-bg=true&margin-w=8" 
+  alt="GitHub Trophies" 
+/>
+
+</div>
 
 ## ⚙️ Extra Badges
 
