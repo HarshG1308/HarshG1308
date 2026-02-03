@@ -2,7 +2,7 @@
 
 # 🚀 HARSH GAUTAM
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Software+Development+Enginneer;AI+%26+ML Ops+Enthusiast;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
 
 ### 💻 Final Year CSE @ GLA University | 🎯 CGPA: 8.94/10.0
 
