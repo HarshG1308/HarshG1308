@@ -1,184 +1,322 @@
-<div align="center">👨‍💻 HARSH GAUTAM</div>
-
 <div align="center">
-  <b>Final Year CSE Undergrad | Machine Learning Enthusiast | Software Developer</b><br>
-  <i>GLA University, Mathura</i>
+
+# 🚀 HARSH GAUTAM
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%7C+Innovator" alt="Typing SVG" />
+
+### 💻 Final Year CSE @ GLA University | 🎯 CGPA: 8.94/10.0
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-gautam-b73574252/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/HarshG1308"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:harsh.gautam_cs22@gla.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/HarshG1308"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
+
+---
+
+## 🎯 Professional Journey
+
+```yaml
+current_role: "SDE Intern @ Zscaler"
+previous_experiences:
+  - "Data Science Intern @ Intellewings (Fraud Risk Monitoring)"
+  - "Research Intern @ IIT Gandhinagar"
+  
+focus_areas: ["Machine Learning", "Backend Engineering", "Distributed Systems"]
+currently_learning: ["Generative AI", "MLOps", "LangChain", "System Design"]
+open_to: "Collaborate on AI/ML Projects & Scalable Backend Systems"
+```
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gautam-b73574252/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshG1308)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.gautam_cs22@gla.ac.in)
-  
+### 🌟 What Drives Me
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Technical Passion
+- Building **AI-powered solutions** that solve real-world problems
+- Designing **scalable backend architectures**
+- Exploring **Generative AI** and **LLM applications**
+- Contributing to **open-source** ML projects
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Beyond Code
+- 🏀 Basketball enthusiast
+- 📚 Literature & philosophy
+- 🎵 Music lover
+- 🧘 Spiritual practices
+- 🌱 Continuous learner
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Arsenal of Technologies
+
+<div align="center">
+
+### 💻 Languages & Core Technologies
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql&theme=dark" />
+
+### 🚀 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tensorflow,pytorch,flask&theme=dark" />
+
+### ⚡ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=kafka,redis,docker,mysql,mongodb,aws,git,postman&theme=dark" />
+
+</div>
+
+<div align="center">
+
+**ML/AI:** `TensorFlow` `PyTorch` `scikit-learn` `Keras` `Hugging Face` `LangChain` `OpenCV`
+
+**Backend:** `Spring Boot` `Node.js` `Express.js` `REST APIs` `Microservices` `JWT Authentication`
+
+**Databases:** `MySQL` `MongoDB` `PostgreSQL` `Redis` `Apache Kafka`
+
+**DevOps:** `Docker` `Git` `AWS` `CI/CD` `Linux`
+
 </div>
 
 ---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+### 🏦 WingBalance – Financial Risk Monitoring System
+*Real-time Fraud Detection Pipeline*
+
+</div>
+
+```python
+├─ Tech Stack: Apache Kafka | Spring Boot | Python | ML Ensemble (MLP + ISO-XGB)
+├─ Features:
+│  ├─ Real-time transaction ingestion via Kafka streams
+│  ├─ ML-based fraud detection with 95%+ accuracy
+│  ├─ Event-driven architecture for scalability
+│  └─ Automated alerting & risk scoring
+└─ Impact: Processes 10K+ transactions/minute with <100ms latency
+```
+
+<div align="center">
+
+### 📔 Journal Application
+*Secure Personal Journal Platform*
+
+</div>
+
+```javascript
+├─ Tech Stack: Spring Boot | Redis | Kafka | JWT | MySQL
+├─ Highlights:
+│  ├─ JWT-based authentication & authorization
+│  ├─ Redis caching for 30% faster API responses
+│  ├─ Kafka event streaming for async operations
+│  └─ Concurrent session management
+└─ Performance: Handles 1K+ concurrent users efficiently
+```
+
+<div align="center">
+
+### 🤖 Multi-modal Elevator Module
+*IEEE Published Research Project*
+
+</div>
+
+```bash
+├─ Tech Stack: Raspberry Pi | Computer Vision | NLP | Embedded Systems
+├─ Innovation:
+│  ├─ Voice + Eye-tracking + Touch interface
+│  ├─ Real-time speech processing with 95% accuracy
+│  ├─ Low-power edge computing design
+│  └─ Accessible interface for differently-abled users
+└─ Recognition: Accepted at AIC 2025 IEEE Xplore
+```
+
+<details>
+<summary><b>🔍 Click to see more projects</b></summary>
+
+<br>
+
+**🎭 Aspect-Based Crime News Sentiment Analyzer**
+- Sentiment analysis using DeBERTa-v3 transformer model
+- Named entity recognition + polarity analysis
+- Real-time news processing pipeline
+
+**🌐 Vishuddh AI Portal**
+- AI-powered cleanliness monitoring system
+- Real-time camera feed processing
+- 92% classification accuracy with CNN models
+
+**🛡️ Cybershield – Deepfake Detection**
+- Multi-modal deepfake detection (audio/video/image)
+- CNN + RNN hybrid architecture
+- Temporal & spatial pattern analysis
+
+**🎵 Audio Sentiment Analysis**
+- CNN + LSTM architecture for emotion detection
+- Feature extraction from audio spectrograms
+- Multi-class sentiment classification
+
+</details>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🎯 Category | 🏅 Achievement |
+|------------|---------------|
+| **📝 Research** | Paper Accepted at **AIC 2025 IEEE Xplore** |
+| **🥇 Hackathons** | 1st Prize – **Sustainability Category @ RECKON 6.0** |
+| **🥈 Competitions** | 2nd Prize – **Techno Business Hackathon (200+ teams)** |
+| **🥈 Innovation** | 2nd Prize – **MARKETWISE Hackathon @ IIIT Nagpur** |
+| **💻 Coding** | **Gold Badge on CodeChef** | 500+ Problems Solved |
+| **🎓 Academics** | Top 5% in NPTEL **MIS & Software Engineering** |
+| **🔥 LeetCode** | **500+ Problems** Solved | Contest Rating: 1600+ |
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarshG1308&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+## 👨‍💼 Leadership & Community
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 President, DATUM Club
+*Data Science Club @ GLA University*
+
+- 🎯 Organized **20+ workshops** on ML, NLP & GenAI
+- 👥 Led team of **50+ members**
+- 💡 Conducted coding contests & tech talks
+- 📈 Managed club operations & recruitment
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Tech Team Member, EII
+*Entrepreneurship Initiative*
+
+- 🚀 Built features for **user engagement**
+- 👨‍🏫 Mentored **15+ juniors** on best practices
+- 🛠️ Code reviews & architecture design
+- 📚 Conducted tech workshops
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Final+Year+CSE+Undergrad+at+GLA+University;Machine+Learning+%26+Software+Development+Enthusiast;Building+Scalable+ML+Pipelines+%26+Backend+Systems;Always+learning+%F0%9F%93%9A+Always+shipping+%F0%9F%9A%80" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshG1308&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshG1308&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG1308&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
 ---
 
-## 💫 About Me
-
-Hey there! I'm a final year Computer Science student with a passion for building AI-powered solutions and scalable backend systems. I’ve interned as a Research Intern at IIT Gandhinagar, as a Data Science Intern at Intellewings, and I’m currently working as an SDE Intern at Zscaler.
-
-- 🔭 Currently working SDE Intern at **Zscaler**
-- 🧠 Previously: **Data Science Intern @ Intellewings (Anti money laundering and Fraud Risk Monitoring System)**
-- 🌱 Learning **Generative AI, Advanced DSA, LangChain, MLOps, and scalable backend design**
-- 👯 Open to collaborate on **Machine Learning, Distributed Systems, and Backend Engineering**
-- 🎓 CGPA: **8.94/10.0** at GLA University
-- 📫 Reach me at: **harsh.gautam_cs22@gla.ac.in**
-- ⚡ Fun fact: I enjoy basketball, spiritual activities, music, and literature!
-
----
-
-## 🛠️ Tech Stack
+## 🎯 Coding Profiles
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools & Technologies
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/LeetCode-500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<br>
+<sub><b>Problems Solved</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CodeChef-Gold-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<br>
+<sub><b>Gold Badge</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Contest-1600+-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white" />
+<br>
+<sub><b>Rating</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### WingBalance – Financial Risk Monitoring System
-- End-to-end fraud detection pipeline using **Kafka** for real-time transaction ingestion and model triggering.  
-- **Spring Boot** producer and Python model consumer for ML inference with ensemble models (MLP, ISO-XGB).  
-- Real-time prediction and alerting for financial risk management.
-
-### Journal Application
-- Secure journal backend with **Spring Boot**, **JWT authentication**, and **Redis caching**.  
-- **Kafka** event streaming for asynchronous tasks and improved fault tolerance.  
-- ~30% faster API responses via concurrent session management and cache indexing.
-
-### Aspect-Based Crime News Sentiment Analyzer
-- Aspect-based sentiment model using **yangheng/deberta-v3-base-absa-v1.1**.  
-- Named entity extraction + sentiment polarity to analyze crime-related news.
-
-### Vishuddh AI Portal
-- AI-powered web application for real-time cleanliness monitoring.  
-- Image processing pipeline on camera feeds with ~92% classification accuracy.
-
-### Multi-modal Elevator Module
-- Voice-controlled, multi-modal elevator interface (eye tracking, voice, touch) using Raspberry Pi.  
-- Concurrent, low-power speech processing with high reliability; accepted at **AIC 2025 IEEE Xplore**.
-
-### Cybershield
-- Deepfake detection platform across audio, video, and images.  
-- CNNs and RNNs to capture temporal and spatial patterns for authenticity checks.
-
-### Audio Sentiment Analysis
-- Model combining **CNNs** and **LSTMs** for sentiment analysis on audio recordings.  
-- Temporal and local feature extraction for robust emotion classification.
-
----
-
-## 🏆 Achievements
-
-- 📝 Research paper accepted at **AIC 2025 IEEE Xplore** on a multi-modal intelligent elevator interface.  
-- 🥇 1st Prize – **Sustainability Category** at RECKON 6.0, JIET Jodhpur.  
-- 🥈 2nd Prize – **Techno Business Hackathon (200+ teams)** and **MARKETWISE Hackathon, IIIT Nagpur**.  
-- 🎓 Top 5% in NPTEL courses on **MIS** and **Software Engineering**.  
-- 💻 Gold Badge on **CodeChef (500+ problems)** and **500+ problems on LeetCode**.
-
----
-
-## 💼 Leadership
-
-- **President, DATUM Club** (Data Science Club) – GLA University  
-  - Organized workshops on **ML, NLP, and Generative AI**, coding contests, and tech talks.  
-  - Led club operations, budgeting, and recruitment.  
-
-- **Tech Team Member, EII (Entrepreneurship Initiative)**  
-  - Built features to improve user engagement.  
-  - Mentored juniors on clean code and best practices.
-
----
-
-## 📊 GitHub Highlights
+## 📫 Let's Connect!
 
 <div align="center">
 
-<!-- Stats card -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=HarshG1308&show_icons=true&theme=tokyonight&hide_border=false" 
-  alt="GitHub Stats" 
-/>
+### 💬 Open to Opportunities & Collaborations
 
-<!-- Streak card (use vercel subdomain, not herokuapp) -->
-<img 
-  src="https://streak-stats.demolab.com?user=HarshG1308&theme=tokyonight&hide_border=false" 
-  alt="GitHub Streak" 
-/>
+<p>
+<a href="https://www.linkedin.com/in/harsh-gautam-b73574252/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harsh.gautam_cs22@gla.ac.in">
+<img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/HarshG1308">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-<!-- Top languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshG1308&layout=compact&theme=tokyonight&hide_border=false" 
-  alt="Top Languages" 
-/>
+**Looking for:** SDE Roles | ML Engineering | Backend Development | Open Source Collaboration
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=HarshG1308&theme=onedark&no-frame=false&no-bg=true&margin-w=8" 
-  alt="GitHub Trophies" 
-/>
-
-</div>
-
-## ⚙️ Extra Badges
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HarshG1308&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/HarshG1308?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=HarshG1308&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+### 💭 Philosophy
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br>
+
+**"Building the future, one commit at a time"** 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### ⚡ Fun Fact
+*I believe the best code is the code that doesn't need comments – it speaks for itself!*
+
+---
+
+<sub>Made with 💙 and lots of ☕</sub>
 
 </div>
